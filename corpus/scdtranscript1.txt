@@ -1,0 +1,797 @@
+﻿(0:00)
+Ben: Then, then we can go into the or-organic banter.
+Ell: Okay.
+Ell: I used to play bass for Organic Banter in the nineties.
+Ben: Didn't know you were alive in the nineties.
+Ell: You knew I was--I was born in '95!
+Ben: Fair enough.
+Ell: I'm 21!
+Ben: Fine, moving on.
+Ben: I didn't know you could play bass in the nineties.
+Ell: I wasn't very good at it.
+Ben: You wouldn't be in a band called Organic Banter.
+Ell: It was a bad band.
+Ben: A bad, bad band.
+Ell: Bad. Bad band.
+Ben: I said bad band.
+Ell: I-I was just repea--I was agreeing with you.
+Ben: Alright ‘cause for a second I thought I sad bat band and then that was really worrying me.
+Ell: [laughter]
+Ben: [laughter]
+Ell: This is off to a great start.
+
+
+Ben: Hey, I'm Ben Roswell, you can find me at roswellwrites on twitter.
+Ell: Hi, I'm Ell and you can find me at occasionalell on twitter.
+Ben: And we're about to do something kinda crazy which is start a podcast. This is Sun City Duet, a real play podcast with only two people.
+
+
+[quiet guitar background music starts]
+
+
+(01:24)
+Bendric Temine: Oh geez…Oh Lord…….Why isn’t this thing working…. fuck…I told them that upgrading the the emergency response system all at one was a mistake but they went right ahead.  God… I feel like I’m dying…. why won’t this thing work… shit….I can’t think I can’t think….hello can anybody hear me? Is this the emergency response line? Please help I’m really sick… I can’t think…it feels like my thoughts are trapped in quicksand….please help me… shit… can anybody help me…I don’t know why I feel like this. Like the world is ending. … Lord…. it was just a cold, I told Nianna that, no cure for the common cold, no point going to see a medic… Lord….Lord she was right…shit….I’m dying I think I’m dying…. why isn’t this thing working… where is everybody…. it’s so dark…. shit … is my vision going… somethings wrong…. where is everybody?…. I told them something was wrong… I told them something was brewing…nobody listens…. god…… nobody ever listens…..and I’m going to go away and there’s going to be nobody to say anything any more… shit… I’m so tired….I’m so tired….
+
+
+
+
+[connection sound]
+
+
+Operator: This is Sun City’s Emergency Response system please state the nature of your distress so the appropriate aid may be dispatched...
+
+
+Sir, is there an emergency?
+
+
+If there is an emergency please respond…. 
+
+
+
+
+
+
+This call has been registered as false positive from the new system. Thank you for your time. 
+
+
+[click]
+
+
+[music fades out]
+
+
+Ell: That-that's us, you just heard us.
+Ben: We're gonna be playing a hacked version of Firebrands
+Ell: Do you want me to talk about Firebrands?
+Ben: That was an intro for you to talk about Firebrands.
+Ell: [laughter] Okay.
+Ell: Firebrands is a roleplaying game by D. Vincent Baker, who's done other great games such as Apocalypse World. And it is scene based and each scene only has two people in it for most of them so we hacked it to add some more scenes and make the scenes that require more than two people to work with two people.
+Ell: And also completely changed the universe that it's set in
+Ben: Right. So the original Firebrands rules and questions are pretty, um, pretty mired in uh the universe that it takes place in. So we did some surface level editing of some of the language of it. And we also, since we plan to play it quote unquote "indefinitely", we added a few more scene types and a few more questions to the already preexisting scenes so that we could--we had something that wasn't going to get stale im--almost immediately. 
+Ell: And we've also taken out some of the scene types.
+Ben: Things that are complicated or that we thought were gonna be too hard to like visualize for people, we've taken out. This is a game I think that's about, uh, you know it's about talking to people and the power that, um, like just having a conversation with somebody can have. And so we took out some of the big fight scenes. Um. So that we were forced to play a game about small interactions, like that's important to us.
+Ell: Yep!
+Ell: So we have 14 scene types instead of the original. How many are there [goes silent to count].
+Ben: Counting is great podcasting.
+Ell: Nine! Nine. The original nine. So we've-we've added some and we've gotten rid of um. a tactical skirmish and a free for all.
+Ben: And we added. Yeah. We added ones like a covert action or sharing whispers. And so I think that. That brings us to really what is the heart of this podcast which is it's an experiment. get ready to listen to us live playtest our hacked version on air.
+Ell: And also have no idea what we're doing
+Ben: We've done minimal world building. We've done absolutely zero talking about plot. We have a set of characters that are going to become our base characters. Who may change, who may die, who may be replaced or captured or be put out of commission. Who, or, just maybe are not, like,  the central characters to the story. We don't know yet. But we've named them and given them one to two sentence backgrounds.
+Ell: And also adjectives.
+Ben: Which is a key part of the Firebrands storytelling. But we haven't discussed interpersonal relationships between them. We don't know what they talk like. We don't know what their main goals are. We just know them, their loyalties, and a few words about them.
+Ell: That's a lie, we've discussed accents.
+Ben: [heavy sigh] Don't bring up the accents
+Ell: [laughter]
+Ben: [sigh]
+Ben: [laughter]
+Ell: [more laughter]
+Ben: But we don't know. We're gonna do the majority of our world building and our character building as we go along in the story. One of us is gonna propose something and the other person is gonna either say "Wait I've got something better" or "Yes, that's okay."
+Ell: All for the enjoyment of you, the listener.
+Ben: Ell and I are about to jump off a cliff. And who knows what's gonna happen on the way down.
+Ell: Well hopefully a good podcast.
+Ben: [laughter]
+Ben: Yeah, eventually we're gonna hit the ground but hopefully by the time we land we've made a good podcast.
+Ben: So why don't we talk about the world that Sun City Duet both takes place in and is named for.
+Ell: Yeah, let's-let's do that.
+(08:48)
+Ell: So Sun City Duet is set on Sun City which is a space station orbiting a binary system of stars. It's like planet sized. You know, how space stations are.
+Ben: And it's the center of learning for the Za Farsha Empire which is the main space empire far, far in the future. It's run by universities and it's-it's sort of a place of learning. It's what you might think of as like Athens. It's a city, there's shops, there's people who don't make their wages living at university. Sorry. There's people who, you know, aren't paid to work at a university or aren't students. But everything is in service of this, like, this larger ideal of a city who's you know who's ruled by universities. A city that's ruled by the desire to learn.
+Ell: Should we talk about factions?
+Ben: Yeah, um, so I think just introducing the factions is um. Going to be a good way to introduce the world to you guys. The story we're telling takes place in a time of political upheaval on Sun City. or, in Sun City. We haven't really decided which one is better. You say on a ship but you say in a city.
+Ell: You say on the ISS.
+Ell: Which is a space station.
+Ell: You don't say like, in the ISS.
+Ben: Yeah but it feels weird to say on Sun City. It feels like--
+Ell: ON THE MOON.
+Ben: IN NEW YORK.
+Ell: Yeah but Sun City is a lot bigger than New York.
+Ben: That's true.
+Ben: We'll get back to you on this listener.
+Ell: [laughter]
+Ben: And-and so there are a number of different opinions about what the fate of Sun City should be.
+Ben: Let's start with, um, the council loyalists.
+Ell: You just wanna make me talk first.
+Ell: Okay.
+Ell: When Sun City was first commissioned by the Empress Linnea Za Farsha it was given to the universities of the empire to divide among themselves, to rule by council. A city run by universities would be the birthplace of a new age of invention. It is through her command that the Council Loyalists lay their claim. Sun City was gifted to them, not to the revolutionaries, and not to Linnea’s children. The Loyalists are teachers, students, researchers, and politicians. Some are loyal because the institution gives them purpose, some because the institution gives them power, and some because they truly believe. But whatever their reason, they are determined to remain preeminent.
+Ben: So that's the people in power at the moment. The next group is the empire loyalists.
+Ben: “The shining star of the empire belongs in The Emperor’s crown, not in the hands of some "academics",” The Empire loyalists say over coffee. They don’t hide their words even in a city balanced on a knife's edge. They don’t need to. They have the power of the empire behind them. They are out-stationers, for nobody raised in the City of Masks is quite so bold. They are the children of nobles come to the city to study, businessmen here to secure their interests, officers of the military checking on the construction of their newest ships. “Don’t worry,” They say, “The empire will reclaim their place soon.”
+Ell: I guess next is the revolutionaries.
+Ell: The Council of Universities learned quickly that the best way to ensure that they remained in power was to control information. This is true everywhere, but it is especially true in a city where information is the main currency  and books are traded as often as money. And just like anywhere else, as knowledge was locked down people began to get angry. The knowledge hungry and the radical thinkers, the dispossessed and the uneasy retreated to the humming underbelly of the city ship. There they set up schools of their own and created libraries of stolen books. They teach everything the large universities do but they also teach how to organize and how to plot and how to steal.  These teachers and students are the revolutionaries determined to claim Sun City in the name of learning.
+Ben: and last but not least, the free radicals. probably the most diverse group of these, of the four.
+Ben: While the other factions are defined by loyalty to something greater than themselves, the Free Radicals are solitary and selfish by nature. With unrest on the rise in Sun City, they seek not to control but to capitalize. They are the reporters, the drug dealers, the back room miracle workers, the secret backbone of the city station. Their rule of law is self-preservation, and when Sun City dissolves into revolution they hope to come out not only alive, but thriving. 
+Ell: That's the four factions. Thank you, Ben, for writing those.
+Ben: Uhh. I feel like I should say “My pleasure” but that also sounds really like stuck up.
+Ell: Self-aggrandizing??
+Ben: Yeah, that's-
+Ell: Is that the right way to use that word??
+Ben: I was gonna say--yeah. I was really gonna say stuck up but self-aggrandizing. 
+(14:18)
+Ben: So Ell and I each have 4 characters, one from each of these factions.
+Ben: But I think we'll introduce them as we go.
+Ell: So we're gonna decide who chooses the first scene by a coin flip as is traditional with.
+Ben: And.
+Ben: Well normally. Normally it's. there's a bit more precision in how you do this but normally there's more than two people.
+Ell: Yeah. Coin flip. Coin flip works.
+Ell: Uh. Do you wanna flip or should I.
+Ben: You can flip. But first I was gonna say that we're just gonna introduce the rules of the game as we play and hopefully you'll learn them. Most scenes follow a similar structure to each other but have a different tone.
+Ell: Okay. Do you wanna call heads or tails/
+Ben: Tails.
+Ell: Okay.
+Ell: It's flipping.
+Ell: It's heads!
+Ell: Which means that I go first. [laughter] Okay. Uh. So. I'm gonna do a chase uh. Between, uh, my revolutionary Kiviara and your uh. 
+Ben: Council loyalist.
+Ell: Your council loyalist, Wolfhound.
+Ben: Uh. So let's read the adjectives.
+Ell: Okay.
+Ell: Uh. Kiviara is willful, unsentimental, and passionate and uses they/them pronouns.
+Ben: The Wolfhound is severe, polished, and practical and she uses she/her pronouns.
+Ben: Also she wears a mask.
+Ell: It's the city.
+Ben: This is very important.
+Ell: It's the City of Masks, that's what you do with it.
+Ben: When you're given a City of Masks, you wear a mask.
+
+
+Ell: Okay. Are we starting this one by reading the rules?
+Ben: Yeah.
+Ell: Okay. a chase.
+Only you and your chosen partner play. Choose which of you is the hunter and which is the quarry. Ask your partner how the chase came about.        
+What do you notice about each other? What have you heard?
+During the chase, anyone may ask anyone for details about the landscape, what’s ahead, what’s behind, and what course the hunt might take.
+The quarry conducts the chase by selecting a series of four challenges or admissions. They may choose freely except that the 3rd must be an admission. The quarry names the challenge and together the group discusses what sort of thing might have to be sacrificed to overcome it. After choosing their sacrifice the hunter make the choice either to flip a coin or to give up. If the hunter flips heads, they pass unscathed. If they flip tails they lose their sacrifice. Each sacrifice must be greater or equal in value to the one before it. 
+When the quarry chooses to pose an admission, they name the admission and together the group discusses what sort of things might have to be sacrificed to overcome it. After choosing their sacrifice, the quarry flips a coin. If they flip heads they pass unscathed, if they flip tails they lose their sacrifice. If they have already made a sacrifice then the sacrifice must be of equal or greater value to the previous one. 
+The chase ends either when the hunter gives up or passes all four challenges and admissions and catches their quarry. 
+(17:49)
+Ben: So. What do we--what have we heard about each other?
+Ell: Ah. Kiviara's heard a lot about Wolfhound. 
+Ben: Oh absolutely. Um. So one of the most mysterious institutions in Sun City is the Arreta. The Arreta was one of the original universities to which the Sun City was gifted and is now controlled by. And the Arreta has like one really strong central belief which is that. That good work can only be done by people who have no egos. Which doesn't actually happen very often in practice. But that. An expression of this all of their highest, like, people and most of their, like, administration wear masks so that you can't tell who you are. And that the mask is more important than the person. So different people can wear the same mask and more or less be the same person.
+Ben: My girl, Wolfhound, is, ah, the chief investigator for the Arreta. And she wears the mask of a wolf-hound. And the people in the arreta who work for the Arreta tend to be, you know, to be known by their masks. And I think in a lot of ways Wolfhound is sort of infamous. She's been an investigator for them for approximately 10 years, since she was pretty young. And she is. Well, if there's one thing to say about her, it's that she's good at her job.
+Ell: And she's terrifying.
+Ben: What do the revolutionaries think about Wolfhound?
+Ell: Oh god. They're. If Wolfhound comes and finds a member of your, like, subgroup of revolutionaries then everybody else goes to ground. 'Cause there's no way that she's gonna let anybody get out of there like. Books go missing. People go missing.
+Ben: That's the thing about the Wolfhound is not only is, you know she, you know severe and polished and practical. But all of those things sort of result in her being, like, this kind of force of nature in a city where nature doesn't really exist.
+Ell: There are trees.
+Ben: There are trees. That does not mean there is nature. 
+Ell: Yeah. Yeah there's no weather.
+Ben: And so. What. What might the Wolfhound know about Kiviara?
+Ell: okay. Kiviara Laurel is a courier for PEAL, which is Personal Education for Anyone Library. Which is a terrible name.
+Ben: Mostly just known as PEAL.
+Ell: They're not good at naming things. It's fine.
+Ell: She might know that Kiviara is from outstation. And used to be. Used to be a student at BASTS. Which is, uh, the Bioengineering and Agricultural Science Trade School. 
+Ben: Mhm.
+Ben: So I'm guessing there's probably a, maybe an immigration warrant?
+Ell: Oh, yeah, 'cause Kivaria got a warrant there to learn, not to hang out in the underbelly of Sun City for 5 years after dropping out of college?
+Ben: I think generally if you drop out of college in Sun City and are not local and cannot immediately get a job that you're sorta out.
+Ell: Yeah.
+Ben: Or, well, you're supposed to be.
+Ell: Yeah. Kiviara's just been hanging out in the underbelly of Sun City. Biking. With books.
+Ben: And so in my mind, I mean, I think it's pretty obvious that Wolfhound is the-the hunter.
+Ell: That's what she does
+Ben: That's everything she is.
+Ell: Wolfhound is the hunter so Kiviara is the quarry.
+Ben: And I think that. Wolfhound. It's been a tough couple of days for Wolfhound.
+Ell: Mm.
+Ben: I think anybody who's in law enforcement has had a tough couple of days.
+Ell: Why would that be?
+Ben: You're always letting me drop the bombs.
+Ell: [laughter]
+Ell: A GUY WAS MURDERED.
+Ben: Died under suspicious circumstances.
+Ell: Yeah but everybody's pretty sure he was murdered.
+Ben: Oh fuck we didn't name him.
+Ell: No, we didn't name him.
+Ell: [laughter]
+Ben: It's okay he-
+Ell: Let me get the-
+Ben: It's okay, he's mostly a plot object.
+Ell: Let me get the thing open. The uh. Uh.  The name. The name thing open.
+Ben: And this is where the experiment, dear listeners, really comes into play. We're going to be naming about 99% of our characters on the podcast.
+Ell: Um. Iss.
+Ben: No.
+Ell: Okay. Bendric.
+Ben: Bendric is fine. He needs a last name
+Ell: Bendriiiic.
+Ell: Bendric.
+Ell: Ssob.
+Ben: Bendric Ssob. That's bad.
+Ell: Okay. Bendric Temine.
+Ben: Bendric Temine. That's good. Most people just call him Temine.
+Ell: Okay. I'm gonna put him in our character channel.
+Ben: So. Bendric is the council member who represents the college of the imperial line which is the engineering--the big engineering college. And it's a. We've given our colleges adj-- three adjectives just like we've given our characters as sort of as a way of characterizing them without doing too much world building. So the college of the imperial line is competitive, glamorous, and exacting. And Mr. Bendric Temine was found dead three days ago and since then law enforcement has been having a tough time. I think that like they've been out pretty much non-stop. They've been interviewing people, hunting down leads, they've been on high alert. And of course if anybody asks, Mr. Bendric Temine definitely died of probably natural circumstances. Natural causes, sorry. But absolutely everybody, like, the official line is that he died of natural causes and this is just. This is just them being absolutely sure, you know?
+Ell: Mhm.
+Ben: Because they don't want Mr. Bendric's funeral to be messed up, they want people to be able to mourn in peace.
+Ell: The rumor mills at the colleges are going completely haywire.
+Ben: Look if you think of the fastest you've ever seen a rumor mill go.
+Ell: It's faster.
+Ben: And then speed--take that up. Take that. Take that up by about 10 or 15 times.
+Ell: Gonna be able to mill a lot of grain with that rumor mill.
+Ben: I. there's probably some people who are usually the subject of rumors who are slightly relieved that they get a break.
+Ell: Mhm.
+(25:39)
+Ben: So I'm imagining that Wolfhound is like leaning against a building, you know taking a break from hunting down the streets. She might have been smoking or drinking if she didn't have a full face mask on.
+Ell: [laughter] I'm just imagining her holding an unlit cigarette and occasionally just bonking it against her mask. 
+Ben: [laughter]
+Ben: Um. 
+Ell: Which is definitely not happening but-
+Ben: No, no, she's very put together and polished. So she's-she's standing very neatly but also like. In like an out of the way corner. She probably has maybe a water bottle and she's tipping up very carefully underneath her mask so she can drink without.
+Ell: Revealing herself.
+Ben: Without revealing herself and. And then I think that Kiviara just dashes by and they have some sort of chip, right?
+Ell: Ah. Yeah. Ah Kiviara like has like a backpack or something that's like securely strapped to their body and they have like some books in there and probably some. A data chip, like a future USB drive stuffed in their pocket.
+Ben: And so, the Wolfhound's mask has like little screens in its eyes. And it-it basically says "wanted for customs en--immigration enforcement". And I think that had it been any other time the Wolfhound might have let it pass. Cause the Wolfhound only really deals with like really important shit. She's the lead investigator.
+Ell: Mhm
+Ben: But i think somebody running through a disused street in the city 3 days after a murder being wanted for immigration enforcement-
+Ell: It's suspicious.
+Ben: It's suspicious.
+Ell: What ring of Sun City are we in?
+Ben: I think. The first ring.
+Ell: That was what I was thinking. The first ring is the most densely populated one. It's got all the tall buildings. space is at a premium in Sun City. So, first ring is the one with all the tall buildings. It's where most of the people live.
+Ben: It's the city center.
+Ell: The city center.
+Ben: And it has a lot of really small alleyways and.  What are we. So the Wolfhound notices the. the Wolfhound notices the bag and the data chip and the warrant out for Kiviara's arrest. As Wolfhound peels herself off against--from against the wall and starts chasing, what's the thing that Kiviara notices?
+Ell: Oh god. Kiviara. I mean notices that 1. It's the Wolfhound oh shit and 2. Probably like that this is abnormal behavior for the Wolfhound. like-
+Ben: Right.
+Ell: I don't really think of the Wolfhound as being somebody who spends a lot of time hanging out in weird alleys in first ring?
+Ben: No. Probably not. unless they're on the hunt.
+Ell: Mhm.
+Ben: But if the Wolfhound is on the hunt they probably wouldn't be chasing Kiviara, you know.
+Ell: Yeah. 
+
+
+Ben: So the chase is yours, my dear.
+Ell: Oh god thanks. Okay.
+Ell: I turn into an area I know well. Will you get lost following me?
+Ben: I don't think so.
+Ell: Okay.
+Ben: But i think that because the Wolfhound wasn't expecting a chase that like. She's a pretty. She's a tall woman with long legs. She's a good runner. But I think that. She's gonna. The sacrifice she's gonna make if she continues to follow Kiviara is that she's gonna lose her surprise advantage.
+Ell: Okay.
+Ben: It was a surprise for her to like start chasing Kiviara. Kiviara wasn't expecting it, right?
+Ell: Mhm.
+Ben: And so she had this like. Kiviara was shocked and she had a you know. She had this advantage of. She had a surprise advantage.
+Ell: Yeah.
+Ben: But because Kiviara knows the inner city and Wolfhound does not, when i flip my coin, if I. If I get tails, then no longer does Wolfhound have the advantage.
+Ell: Okay.
+Ben: Ah. Tails. 
+Ell: Alright.
+Ben: I think you hear, like, Kiviara. It becomes like almost a horror chase. Like we're chasing through these dark, twisty alleyways. And for Kiviara the sound of wolf hound following her.
+Ell: Following them.
+Ben: Following them. Got it. Following them is. Is growing softer but you can still hear it. Like. The. The rattle of Wolfhound's good shoes on the like. On the loose plates of the like. These alleyways. and like. And for brief moments Wolfhound's heavy breathing as she follows. Like.
+Ell: Okay. Um.
+Ell: This seems appropriate. I duck into a dimly lit maintenance area. Will you track me through it?
+Ben: Yes. the Wolfhound is the best tracker. But what would she sacrifice. She's already behind and Kiviara's gotten the advantage on her. So what's worse to lose than the advantage?
+Ben: I think. That she loses her position.
+Ell: Okay.
+Ben: If. If I flip tails again, which you know, might not happen.
+Ell: Mm.
+Ben: The Wolfhound's gonna be lost.
+Ell: Yeah.
+Ben: The Wolfhound can still follow Kiviara but the Wolfhound doesn't know the back alleyways and the inner workings of the underbelly.
+Ell: Yeah. Kiviara's been doing this for like. 5 years. Like. Kiviara knows their way around.
+Ben: And the Wolfhound's been doing it for 10 years but mainly in the upper city. The revolutionaries are an increasingly important problem for the council but they're kinda new. I mean they've been around for as long as Sun City's been around but they're gaining strength and this is one of the first times that Wolfhound's needed to chase somebody into the bowels.
+Ben: Alright I'm gonna flip again. Maybe the Wolfhound won't get lost, maybe she will.
+Ben: Tails again. What's up with me today?
+Ell: I dunno.
+Ben: The Wolfhound is lost.
+Ell: Yeah. Wolfhound's lost. I think Kiviara takes a few turns. You know pass some boilers or something. And they. They know where they are on their, like, little mental map but they know that these like. Back areas are super confusing for anybody who doesn't have experience with it. Who hasn't been like led through it by someone who knows what they're doing or looked at a map.
+Ben: I’m imagining that like. In this camera shot we get Kiviara running past and they look up and there's like a tiny scrawled like charcoal symbol on the symbol.
+Ell: Oh yeah.
+Ben: And then. And then. And so we see. We see Kiviara run past, glance up at it, then they keep running. And then we see Wolfhound running by without. Without seeing it.
+Ell: Yeah.
+Ben: Um.
+Ell: Okay. It's time for me to make and admission.
+Ben: About. About. About time.
+Ell: [laughter]
+Ell: Kiviara's been doing really well so far.
+Ell: Okay.
+(33:42)
+Ell: I think. I hesitate when I should have rushed. When I should have rushed. Will you catch me? I think Kiviara comes to a point where either they can stay in the maintenance area or they can go back into the alleyways of the city streets. And they're not really sure which one is the best path for them? So they like. Pause for a moment, kinda looking back and forth, not really sure what they should do.
+Ben: I think.
+Ell: I-
+Ben: Go ahead.
+Ell: Go ahead.
+Ben: Oh I was gonna say that Wolfhound makes a lunge.
+Ell: Okay.
+Ben: And maybe. You. Since you get to decide what the final sacrifice is, that's your. your prerogative as a. As the person making the sacrifice. But I was thinking that maybe. The books.
+Ell: Oh I was gonna just say Kiviara's lead.
+Ben: Oh.
+Ben: Either one.
+Ell: Yeah.
+Ell: ‘Cause if Kiviara. If Kiviara loses their lead and Wolfhound catches them then they're losing the books anyway.
+Ben: Yeah. That makes sense.
+Ell: Okay. Flip a coin.
+Ell: Oh god I got tails. Okay.
+Ben: [laughter]
+Ell: Okay. Wolfhound's caught up.
+Ben: So. Imagine them like. Almost running neck in neck.
+Ell: Mhm.
+Ben: Kiviara's got like. A step or two.
+Ell: Yeah.
+Ben: But again, the Wolfhound's a big woman.
+Ell: Yeah.
+Ben: It must be terrifying.
+Ell: It is terrifying! Kiviara's not having a good day.
+Ben: And. It's the. It's the. This is it.
+Ell: Final challenge.
+Ell: Okay. I. I think that. Kiviara choses to stay in the maintenance area.
+Ben: Mhm.
+Ell: I dash into a forbidden area. Will you risk retribution.
+Ben: What. What kind of forbidden area is this.
+Ell: So you've got like the main maintenance area where like you probably shouldn't go there but nothing locked? But this is like a door with like a key pass and Kiviara has a bootleg copy of a keypass that they just kind of slam on the um. Sensor as they're going past and there's like a big "maintenance worker's only" sign on it and they kind of shoulder the door open. And since Wolfhound is like right behind them there's a chance for her to catch the door. But like inside it's. it's way louder in there. Like it's an industrial area.
+Ben: I think. So. This is how i imagine it going. I think like. The. So. Kiviara shoulders open the door and they. They. You know they pull it back just far enough to slip by, right?
+Ell: Mhm.
+Ben: And I think You see Wolfhound's hand stop the door from closing. And then you see. Like. Something flash up on the eyes of Wolfhound's mask. And it says "Forbidden Area: Must require warrant" and I think. Wolfhound gives up.
+Ell: Alright. Kiviara. Goes off into the. Into the underbelly of the city. Of the station.
+Ben: But Wolfhound has. Saw that pass.
+Ell: Yeah.
+Ben: And they saw that this person was. They saw this person duck into like a forbidden area. And they. They also I think they know this person. They know Kiviara's name because they've got the warrant.
+Ell: Yeah.
+Ben: They know Kiviara was up to something cause you don't run from the Wolfhound.
+Ell: If you have nothing to fear from the Wolfhound you don't run from her.
+Ben: Right. The Wolfhound is immigration enforcement. Is. I mean is not immigration enforcement. Like. If your only problem was immigration enforcement you could probably talk to the Wolfhound and still get away. But the people who are scared of the Wolfhound are the people who are. At least in the Wolfhound's head. The people who are scared of her are the people who are doing bad shit.
+Ell: Yeah.
+Ben: So I think you get this. Image of like. Wolfhound shakes her head and like her. You can see that like her tight severe auburn bun has like come undone a little bit with the chase.
+Ell: Mhm.
+Ben: And. She very, very sedately like. Takes her bun out, runs her hands through her hair, puts her bun back up, puts herself back together all the while just like shaking her head.
+Ell: She's gonna have to get back out of there. She's lost.
+Ben: And [laugh] and then she turns around and she realizes she has no fucking idea where she is.
+Ben: And the Wolfhound's practical so she heaves this like. [sigh] Deep sigh. And she says "Well I guess I'm. In for a bit of a journey".
+Ben: And she starts walking.
+(38:36)
+Ell: Alright. So it's your turn to pick a scene.
+Ben: I'm gonna do. Sharing whispers. And it's. It's gonna be at the funeral of Mr.--what's his name Ell?
+Ell: Ah. His name. Is. Bendric Temine.
+Ben: It's at the funeral of poor Mr. Very Dead Bendric Temine.
+Ell: [laughter] That's his middle name. Very dead.
+Ben: Mr. Bendric VD Temine.
+Ell: [more laughter]
+Ell: He got a lot of shit for that in school.
+Ben: He's very sensitive about it, he doesn't like to tell anybody.
+Ben: So Mr. Bendric VD Temine. He's having like a massive state funeral. You know. 
+Ell: Mhm.
+Ben: He's essentially like. He's one of only 9 council members in the whole city. It's a big, big deal when he's dead.
+Ell: Yeah. I bet all the other council members are like. In attendance.
+Ben: Yeah. We haven't. We haven't discussed at all what funerals look like on Sun City. I've got some ideas but do you have ideas?
+Ell: Well. Burial's a weird thing cause it's a space station? But also space is at a premium so like. If you die then having like a physical place where people can go to visit your remains is like a big deal instead of them just being shot into space?
+Ben: Yeah. I was thinking he was gonna be shot into space.
+Ell: Oh.
+Ben: But I think. You're-you're right that he's famous enough to get a. He's famous enough to get a real physical place. But I think you're right. He has to have some place physical to bury his bo. bo body. There's probably like a specific graveyard for like council members.
+Ell: Like probably there's like a mausoleum type dealio.
+Ben: Yeah like getting buried in a wall.
+Ell: Mhm.
+Ben: Or like in the floor of a church?
+Ell: Yeah. That. That's a thing that people do. Or like in the floor of the university which would be super creepy.
+Ben: Oh god, Lord, he has to be buried in the floor of his own university.
+Ell: God. Ahughgh. Yeah. Yeah. That's. That's good.
+Ben: So like. I think that like. So the college of the imperial line has a lot of. It's one of the larger universities because it's the one with the most government funding.
+Ell: Wow. I wonder why.
+Ben: Maybe because it has the word “imperial” in the name? That might be a possibility.
+Ell: Yeah.
+Ben: And. So. I think that there's. I think there's a ton of different buildings. But i think there's a wide open square?
+Ell: A quad.
+Ben: Yea but more square like than a quad. Do you know what I mean? Like. A quad is like something you would maybe like hang out on and smoke weed and throw a frisbee around.
+Ell: [laughter]
+Ben: But you wouldn't do that in like. The main square of a small town, right?
+Ell: Depends on the small town.
+Ben: I mean we're not in Weedville USA, so.
+Ell: [laughter]
+Ell: [still laughing] That's one of Sun City's titles. It's Weedville, USA. It's the City of Masks or Weedville, USA!
+Ben: Sun City. Crown of the Empire. Star of Learning. Jewel of. Jewel of the World. Weedville, USA.
+Ell: [laughter]
+Ell: Oh god. Okay.
+Ben: But no. But I'm trying to say that it's a little bit more official. I think a lot of the big univeristy things happen here. It's sort of quad like. I think there's some grass, there's some stone, which is like a big deal on a spaceship. 
+Ell: Yeah.
+Ell: Is this like where graduation is held?
+Ben: It's absolutely where graduation is held.
+Ell: Oh god he's gonna be buried there and people are gonna have to stand around him while they're waiting to matriculate.
+Ben: [laughter]
+Ben: Yeah. It's gonna be a big deal. There's probably gonna be like. You. There's a whole superstitious about how you can't graduate on time if you accidentally step on Mr. Bendric VD Temine
+Ell: Yeah. That's like a whole. Like it's gonna take like 10 minutes for that superstition to become a thing after he's buried.
+Ben: He hasn't even been buried yet and it's already a thing!
+Ben: [laughter]
+Ben: So I think. They've removed these massive slabs of stone from the. From the floor of the. Of the square. Like the university square.
+Ell: Mm.
+Ben: And they've created like. Oh. Can I. Am I gonna make it even creepier.
+Ell: Are. Ah.  Are you gonna make it. The the thing over him transparent.
+Ben: That's exactly what I was thinking. Am I wrong.
+Ell: You're not wrong. It's just really creepy.
+Ben: Aaahh weeell.
+Ell: This isn't the Arreta.
+Ben: What if it's just the plaque they put in place has an exact picture of his face.
+Ell: Okay. Like a death mask thing.
+Ben: Right. And also I think that maybe-
+Ell: Like Han Solo frozen in carbonite.
+Ben: [laughter] It's. It has to be able to be like walked and rolled over so I think it's like. an engraving.
+Ell: Mhm.
+Ben: But it's basically Han Solo frozen in carbonite. And I think. I think his coffin is see through
+Ell: Okay. Just nobody. So. You can see it at the funeral but after it's buried you can't see it unless you have to take up the flagstones for like renovations or something and then some poor maintenance worker's gonna have to stare Bendric VD Temine in the face.
+Ben: So Mr. Bendric VD Temine is I think. He's. They've set up like. Instead of like. Graduation usually happens with like  a raised stand at one end of the. Of the square? And I think like the square is like mechanical enough because it's an engineering college that when they need it, the stand just rises.
+Ell: Yeah.
+Ben: Out of the. Out of the floor. But like. Rather than put the people who are gonna speak at one end and then have everybody looking at them, I think it's. I think it's happened now so that this. This place where he's gonna be buried is in the center. And I think it's pretty highly unusual to be buried in like. Buried at your university but I think that. I have a feeling that like. Mr. Bendric VD Temine was kinda well loved.
+Ell: Yeah. Like. He's. He was a good council member. You know. He made sure that the college of the imperial line got what it needed and it. He. Like stood up for its interests and. Like. I bet like he always went to graduation and sometimes he went to like. Whatever the beginning thing of the year is.
+Ben: Commencement?
+Ell: Commencement! That one. And you know, sometimes he would just like. Go to classes? 
+Ben: And I think he knew a lot of students by name even though it's a really big school.
+Ell: Mhm.
+Ben: I mean he probably had like something in his eye that would bring up the student's name? 
+Ell: Yeah.
+Ben: And that's kinda creepy but like I think that the effect was. It made people feel like they knew who he was--like he knew who they were.
+Ell: Yeah.
+Ben: I think that sometimes he'd show up at like dinner. And give like a little speech before people ate?
+Ell: Yeah.
+Ben: I mean like it's a dining hall so people can be eating at any time but like on special occasions like. On Halloween night or.
+Ell: [laughter] Space Halloween.
+Ben: Oh! I mean. I. Halloween hasn't survived the millions of years between Earth and here but like. There has to be a Halloween like. Tradition, right?
+Ell: It's. It's. It's an. It's an inversion festival.
+Ben: Right.
+Ell: We. We gotta have them because everybody's stuck on a spaceship. A space station all the time. There has to be a completely wild inversion festival.
+Ben: Right. You know. The. The spirit of carnival!
+Ell: Mghm.
+Ben: There's a reason carnival exists.
+Ben: And also I think that holidays are pretty important on Sun City because there's no weather to mark the changing of the year. That like holidays that come at specific times become important.
+Ell: Mhm.
+(47:03)
+Ben: So. The people who are gonna be sharing whispers at this. At this funeral. In like this crowd of people who are all gathered around this hole in the floor and this crystalline coffin of their beloved principal.
+Ell: Mhm.
+Ben: Is Morro Za Farsha and. Allora.
+Ell: Allora Za Entha.
+Ben: And I think you might find the Za Farsha name pretty familiar if you've been listening closely.
+Ell: If you haven't been listening, the name of. The the name of the empire. The Emperor. the empire name.
+Ben: It's the name of both the empire and the Emperor's family.
+Ell: That one.
+Ben: And um. Here we meet our first Empire loyalist who's Morro Za Farsha, the youngest son of the Emperor who's studying. Oh god I haven't decided what kind of engineering he's studying. I think he's studying robotic. He's studying robotic engineering at the College of the Imperial Line because it's traditional that sons of the empire or emperor's themselves be like. Versed in the mechanics of how their empire grows. Because this is. This is an empire that's founded on technology. Technological innovation.
+Ell: Did you wanted to do adjectives for Morro?
+Ben: Yeah I'll do adjectives for Morro. Morro Za farsha is beautiful, devoted. Beautiful, devoted, and rich. And he uses he/him pronouns.
+Ell: And. Allora's Za Entha is also an Empire loyalist. They're a duelist. They have a huge chip on their shoulder about just about anything. They're not part of the line of of the empire but they're kind of held on retainer by related family. And they are devoted, athletic, and outspoken and use they/them pronouns.
+Ben: So um. I think since Ell you did the rules last time, I'm gonna do the rules this time. 
+Ell: Okay.
+Ben: So sharing whispers is one of the new. New types of interactions we've written.
+Ben: Only you and your chosen partner play at the start. Ask them where it would be you would come across each other. Are you in a place where you could be overheard?
+
+
+        What do you notice about each other? What have you heard? What do you think this is about? 
+
+
+        During the conversation anybody can ask for details about body language, location, and time of day. 
+        
+        After every other question you must throw a coin to see if you are detected. If heads, you are detected. You may throw at anytime if you feel the conversation has become heated and is likely to be overheard. If you are observed you may either end the conversation, or retreat further and continue it. The third detection automatically concludes the conversation. You may otherwise end the conversation at any time simply by walking away. 
+And the person who asks the first question is the person who pulled the other aside
+(49:59)
+Ell: What have we noticed about each other, first?
+Ben: I think. Allora has noticed that Morro is uncomfortable in a large crowd.
+Ell: Mm.
+Ben: Morro is standing very straight. He's. He's also sort of a big guy. Not in the same way that like. Like. The Wolfhound's long. Like. She's a runner. She can sprint. Her legs are long. But. Morro's kinda chubby. And pretty tall for somebody of the imperial line. He's taller than all of his brothers. And he's. He's got like big hands. And i think he's standing like. Very carefully so that he doesn't touch anybody.
+Ell:  What's he wearing?
+Ben: Oh we. We have not talked about fashion at all.
+Ell: We have not talked about fashion at all.
+Ben: This is again where our podcast is a trust fall.
+Ben: I-I imagine he has to be wearing something that marks him out as the Emperor's son. at a. 
+Ell: Yeah. Like. Like a sash?
+Ben: Like a sash. I think it's. I think it's very specifically like. A jacket? 
+Ell: Mhm.
+Ben: But it's like a. The jacket itself is a kind of holoscreen.
+Ell: Uh huh.
+Ben: I'm digging myself a hole aren't I-
+Ell: [laughter] What's on the holoscreen?
+Ben: I think it's projecting just the image of a jacket.
+Ell: [laughter]
+Ben: But like-
+Ell: Uhuh?
+Ben: But it's a very nice jacket. But like what you can see is like. It's casting sort of like a pale blue light around him? Like he's maybe just literally glowing a little bit, you know? And he's. And the jacket has like. If it was a real jacket it would have like. Pins on it but i think like over his breast has like the symbol of the empire, of the Emperor on it. But it like moves slightly. And I think the symbol of the empire is two hands cupping a galaxy? And like the hands are static but like the little galaxy inside the hands slowly spins.
+Ell: Ohh.
+Ben: And other than that he's wearing like tight, high waisted pants and like. Like a crisp white shirt. Like button up shirt? Button up shirts haven't gotten out of  fashion. Because they're sort of a constant. Like exactly how they're cut has changed a lot but even millions of years later I think just a button up shirt is important.
+Ell: Mhm.
+Ben: And he's wearing like. Like tight, fancy military boots. And his hair is very perfectly coiffed and he's wearing like a very stiff expression.
+Ben: What is. What is. And so you see how uncomfortable he is. He's right at the front of the crowd, I think? Because when the drones film this you want to see the Emperor's son.
+Ell: Yeah.
+Ben: Also. He wears like a thin metal circlet.
+Ell: Ah Allora.
+Ben: I think that.
+Ell: Oh go ahead.
+Ben: Oh I just had another idea. That also. It's not like metal. It's another holoscreen.
+Ell: [laughter]
+Ben: I think it glows like a pale blue.
+Ell: Is anything this man wears not a holoscreen?
+Ben: His pants aren't a holoscreen. His underwear is not a holoscreen!
+Ell: [laughter] 
+Ell: I bet he owns at least one pair of holoscreen underwear.
+Ben: Does everyone not own one pair of holoscreen underwear?
+Ell: Wolf-hound absolutely does not.
+Ben: I mean. I think she would look really good in like. Lingerie that's all holo screens.
+Ell: [laughter]
+Ben: But. She. No. It's. No, she doesn't. She's too practical for that.
+Ben: But what. What does our. Our boy Morro notice about Allora?
+Ell: Allora. Is pretty at ease. Like. You know, it's a. It's a funeral. You know. They've been to funerals before. Like it's a funeral of like a big dude but. It's not like a super stressful event for them? And they still have their sword. And they have. They have like their formal sword. They have several different swords. This is their formal sword. And they have a sash around their waist.
+Ben: Hey.
+Ell: Which I think. Yes?
+Ben: What kind of sword would you say that is?
+Ell: [laughter]
+Ben: Would you say it's a saber?
+Ell: [still laughing] I'm not gonna say it's a saber! I'll say it's a foil for diversity.
+Ben: What's the third kind of sword that we always forget?
+Ell: Epee?
+Ben: Epee. Maybe it's an epee. Epee?
+Ell: Um.
+Ben: i'm gonna give you a foil.
+Ell: "What kind of sword should Allora use"
+Ell: Um. Let's see. Epees are used for thrusting. Foil. Foil is a light fencing sword. Saber. is. another light fencing sword with a tapering blade.
+Ben: Sabers slash, foils prick.
+Ell: Allora does a lot of stabbing.
+Ben: Then. Yeah, he's probably a foil.
+Ell: Yeah.
+Ben: You heard it here. I suggested somebody was a foil.
+Ell: [laughter]
+Ell: This is a joke for like one person.
+Ben: We're gonna make it an ongoing joke in this podcast.
+Ell: Okay.
+Ben: Our running gag.
+Ell: Our running gag. "What swords do people use?"
+Ben: We strive for sword diversity here at Sun City Duet.
+Ell: Yep.
+Ell: So Allora has their formal foil on their. Like. Sheathed at their hip. And they have a sash across their waist which I think is a holoscreen. And it has like the. The symbol of the Za Entha. Za Entha family. I never really decided what it is yet? I kinda like the idea that it's like. it's like a drop of blood going into like. a pool of water.
+Ben: Oh that's really cool.
+Ell: And it's just kind of on loop. Like the drop forms and then it goes into the water and then the water kind of like ripples out and it turns red and then it turns blue again and then another drop goes into the water.
+Ben: You heard it here, folks, in the future there's wearable gifs.
+Ell: [laughter]
+Ben: And um. Is there anything else that Morro would notice about like-
+Ell: About Allora?
+Ben: Yeah
+Ell: Also, update, Allora is probably wearing a rapier and not a foil.
+Ben: That's. That sounds a lot. A lot more accurate.
+Ell: Okay.
+Ell: Also in the future people still fight with swords especially on Sun City because it's. It's a. It's a bubble. It's a bubble.
+Ben: It's a bub. It's a bubble and people don't like guns. That's not to say that there aren't any guns.
+Ell: There are guns. It's just really dangerous to shoot the thing you're living in?
+Ben: And also because they rely on oxygen pumped in? I mean it's not like a pure oxygen environment, obviously, it's like air. But like-
+Ell: People are nervous about fire.
+Ben: People are nervous about fire and people are nervous about things that combust and they are nervous about bullets that go very, very fast.
+Ell: Yep.
+Ell: So. swords. Swords and punching.
+Ben: So swords happen to be like, the main way of fighting in almost all of the big space stations or big space ships. This is not to say that. Sun City is definitely the biggest one ever?
+Ell: Mhm.
+Ben: Constructed. It was like a huge monument project.
+Ell: It's a big deal.
+Ben: It's a big deal. But there's lots of other smaller space stations where the same rule works. That. Swords, fists, nightsticks are, you know, are favored over. Guns, explosives.
+Ell: More guns.
+Ben: Guns, explosives, or guns.
+Ell: Yeah.
+(58:13)
+Ell: Okay. We were talking about. Allora? Probably?
+Ben: It's okay. Just. People.
+Ell: I can't believe Ben's gonna get murdered on the first episode of Sun City Duet.
+Ben: I'm gonna get murdered because I cannot be bothered to get out from behind this mic which is like. Hitting me into my rocking chair.
+Ell: [laughter]
+Ben: And going to check. And so like. A stabber is gonna like. A serial killer is gonna like burst through the bedroom--
+Ell: Stabber. They're called stabbers now.
+Ben: A stabber is just gonna burst through my bedroom door and stab me in the fucking heart. And, well, you know, sometimes things like that just happen.
+Ell: Yep.
+Ell: Uh. Okay. Okay we were talking about allora, probably. What Morro would notice about them.
+Ben: Yeah. I'm just looking for like. Why does. What's going on in Allora's head that can be visible on his. On their face?
+Ell: They're. They're here because they have to be.
+Ben: Mhm.
+Ell: And they're also alert. Like. Their hand keeps going to the hilt of their sword. They keep looking around. Like. They don't really. They don't really think anything's gonna happen. And they don't especially want to be there. But if they are there and something happens then they're ready.
+Ben: That makes perfect sense.
+Ben: So Morro. I think. Morro and Allora are close to each other? I think probably since they're both high up empire people.
+Ell: They have cool last names.
+Ben: Yeah. I think they're often put together. I don't think they really like each other? But I think they're often put together at like. School events.
+Ell: Yeah.
+Ben: So I think. Morro leans over really carefully and says:
+
+
+Morro: Why are you so. Why are you so twitchy, dude?
+
+
+Ell: [laughter]
+Ell: Morro Za Farsha. Youngest son of the Emperor. Just said the word “dude.”
+Ben: Do. Do you want me to redo it?
+Ell: [laughing] No you can keep it, it's fine.
+[bang]
+Ell: God I just hit my desk again.
+Ell: Just give me a second.
+Ben: I sit here composed and Ell falls apart.
+Ell: That's how this works. Look, i've had a long week.
+
+
+Morro: Why are you so twitchy, dude?
+Allora: Well, you know someone was murdered.
+Morro: I think the official word is "natural causes"?
+Allora: Yeah. But. You know the official word. They want to smooth over everything
+Morro: Yes. I do know. Smooth as smooth can be. Every thing. All in place like. Like.
+Allora: A puzzle?
+Morro: I was gonna say ducks but then I realized I've never seen ducks.
+Allora: They're noisier than you'd think.
+Morro: I think most things are.
+Allora: You've seen the robotic ducks. You know the ones that they put on the pond at BASTS?
+Morro: Oh. Those were ducks?
+Allora: I think so. I think they're supposed to be ducks.
+Morro: How much longer do you think we're gonna be.
+Allora: Well, ah, by my count we still have at least 5 more speeches.
+(1:01:31)
+Ben: So I think it's time for me to ask a question.
+Ell: Alright.
+Ben: I carefully avoid talking about the fact that one of those speeches is mine. Do you notice?
+Ell: Ah. Yes.
+
+
+Morro: Uh-huh. 5 more speeches.
+Allora: Yep. i think you're second to last.
+
+
+Ben: You can hear his big intake of breath like-
+
+
+Morro: [deep breath in, sigh] I wish. Somebody other than me could have made in in time.
+Allora: Yeah, well, you know. Space travel takes a long time.
+
+
+Ben: Morro's sort of like tugging at his collar. Like trying to get a little bit more air.
+Ell: Uh-huh?
+
+
+Allora: Now who's twitchy?
+Morro: Your hand's still on your sword so still. Still you, I think.
+Allora: At least I'm trying to be subtle about it.
+Morro: Well. I can be subtle about some things.
+
+
+Ell: I feel that something is wrong. Do you share my suspicions?
+Ben: Yes.
+Ell: Allora like looks around the crowd again and kind of, you know, grasps the hilt of their sword more firmly for a second and then like consciously lets go of it but is still. Still looking around. Like eying vantage points and everything.
+
+
+Allora: do you think this all seems a little...strange?
+Morro: I think we're burying a man in the ground when there's no fuckin ground. And I think. I think three days is a little quick for a funeral, you know? Do you feel that? You feel like they're eager to get him packed away?
+Allora: Mmhm. I think they're covering something up. I mean, they're never not covering something up but this seems bigger than usual.
+
+
+Ell: We've done two questions. I think it's time to flip a coin.
+Ben: It is. I've flipped the last like. 3.
+Ell: Okay. I'll flip a coin.
+Ell: I got tails. So we're good. Not detected.
+Ben: Is it. Is it. Are we detected on tails or are we detected on heads?
+Ell: We are detected on heads.
+Ben: Alright. Yeah. So. I think like. Both Morro and Allora realize that they've been a little loud.
+Ell: Uhuh.
+Ben: And they take a second and sort of without talking to each other but look around surreptitiously and see that everybody's like still so much. Still like so involved in their grieving. Not that they're actually grieving but that they're. Like.
+Ell: Their. Their fake grieving.
+Ben: I mean some of them must be grieving. He's a good guy.
+Ell: Mhm.
+Ben: But um. but like. They're very much caught up in the show of it and they don't notice two boys. Sorry. Two people not talking to each other. They don't notice like. these two students like. Pshsuhuruhsughsuhushuhuh.
+Ell: [laughter] Allora's not even a student. They stab people for a living.
+Ben: Why are they at-
+Ell: [laughter]
+Ben: The College of the Imperial Line again?
+Ell: They aren't a student. They tend to move freely between like the third and second rings? They spend a lot of time with other empire loyalists. Getting into fights with council loyalists. And they're here specifically because the other empire loyalists got together and decided that if somebody's gonna make a move there should be someone there to protect the son of the Emperor? And Allora was stuck with that task.
+Ben: I bet they're super happy about that.
+Ell: Oh yeah. They're. They're overjoyed to be spending more time with Morro.
+Ben: [laughter]
+Ben: I'm looking for reassurance. Can i find it here?
+Ell: [laughter] No
+Ben: He's like:
+
+
+Morro: But it. It can't be. If they're willing to have all of us out in a crowd like this, it can't be that bad, right?
+Allora: They're trying to show that they're not afraid.
+Morro: Afraid of what?
+Allora: Someone else being killed. I mean look. You've got all the council members and you here.
+Morro: Is. They're worried. About me?
+Allora: Look. You're the son. You're one of the sons of the Emperor. You're the only one on station right now. If somebody's trying to make a move against the council then they've made a move against the council. If they're trying to get rid of the council and the Empire, well, you're here.
+Morro: Ah. Great.
+
+
+Ben: And you can definitely just see that Morro has just realized that he's the target.
+Ell: Oh no.
+Ben: Like. Poor oblivious boy. Like.
+Ell: Oblivious kid.
+Ben: And like. Let's just remember that he's like a head taller than a lot of people?
+Ell: Mhm.
+Ben: And he. He looks around and he suddenly realizes that he's like. his head stands up above all the people around him.
+Ell: Uh-huh.
+Ben: And he sort of like. Hunches a little bit?
+Ell: [laughter] Oh no. He's gonna wrinkle his nice holographic suit jacket!
+Ben: And he's. He's sorta gonna fall quiet. I think it's your turn to ask a question.
+Ell: It is my turn to ask a question.
+Ell: I press you for more answers. Do you give in?
+Ben: I think it depends on the questions, so ask them.
+Ell: Allora wants to know more about what. 'Cause if there's. There's the official line which is that. This guy, uuh, Bendric VD Temine, died under natural causes then. If there's another line going on then the Empire probably knows about it? If the Empire knows about it there's a chance that Morro knows about it. So. 
+Ben: So ask. Ask the question in Allora's like. I think probably that Morro's pretty out of the loop.
+Ell: Yeah.
+Ben: But i think that he might try to answer? Because he likes to have like. He's used to people turning to him for answers that he doesn't have.
+Ell: Yeah.
+
+
+Allora: So. What's the Emperor's view on all this?
+Morro: My-my father?
+Allora: Yeah.
+Allora: You know any other emperors?
+Morro: If he. If I did. If he did then they wouldn't be around for long.
+
+
+Ben: He's sort of like. grimaces. and then he says:
+
+
+Morro: I don't. know. I. got a. [sigh] Deep space.
+
+
+Ben: What are we calling the long distance communication in this universe?
+Ell: I mean. I like “ansible” but.
+Ben: I also like “ansible.”
+Ell: Okay.
+Ell: Thanks Ursula K. Leguin.
+Ben: I mean I use “ansible” in everything I can. Because I love it.
+Ell: Yeah. It's so good!
+
+
+Morro: I got a long distance ansible message from my father telling me to look upright, whatever that means.
+Allora: I think it means stop slouching.
+
+
+Ben: Morro slouches some more.
+Ell: [laughter]
+Ben: And he's like:
+
+
+Morro: And this is important but. He doesn't really share his thoughts with..his...son.
+Allora: Well. His fourth son.
+Morro: I'm sure that some of my brothers have more insight than I do but. Just told me I was gonna have to give a speech. Normally he gives me a speech to say. 
+(1:09:11)
+Ell: That was another set of questions so. Coin flip time.
+Ell: Do you want to flip or should I?
+Ben: I'll flip
+Ell: Okay.
+Ben: I'm gonna get tails because I've gotten nothing but tails this whole...
+Ben: No. I got. I got heads. The rules for heads is we've been discovered. And we can either. Let me read the rules.
+Ben: If you're observed you may either end the conversation or retreat further and continue it. I think that we're at a funeral. There's no real place for us to retreat.
+Ell: Yeah.
+Ben: I think. 
+Ell: And especially with Morro needing to give a speech soon.
+Ben: Yeah I think that what happens here is somebody. Somebody like one of the organizers is like. Has looked over over and is trying to get Morro's attention via like-
+Ell: Significant head nods.
+Ben: Significant head nods, eyebrow movements. And like this organizer is like hunched over like a woman who's just sobbing.
+Ell: [laughing] Oh no
+Ben: And-and. She. She eventually gets Morro like. Locks eyes with Morro and mouths "now."
+
+
+[guitar music starts again]
+
+
+Ben: And she goes up to the microphone, this organizer woman who used to be comforting this other woman and she says. "Well, it seems that our next speaker is overcome with grief."
+Ell: [laughter]
+Ben: "So um. I guess it's time for our favorite student. Morro Za Farsha to share his memories of our beloved and dead council member."
+Ell: [laughing] Beloved and dead.
+Ell: Allora like elbows him in the side.
+Ben: And Morro like suddenly straightens up and really nervously adjusts his holographic suit jacket and steps up to the podium.
+
+
+Morro: The book of unification says ’there is no unity without those who may be considered symbols. There is no unity without those who may stitch us together with threads of themselves, as did the first emperor. Of those unifiers, there are those who do not make themselves, but rather are made by the choice of others. A hundred thousand minute decisions that say 'yes this is our symbol, this is our leader, this is who we choose to bring us together.' It is this that makes them holy.”  
+
+
+I am no good with words, which is one reason I choose to read to you today. The other is that no words better describe Mr. Temine than these. To us here at C.O.I.L. he was a symbol for everyone, for all the disparate branches of research and engineering that we have here. I think all of us know that he was never the best engineer or the best scientist but that never mattered. He could talk to the math majors, and to us mechanical engineers, and to the chemists and the medics He won us all over. And he never asked to be elevated. We simply choose him over the course of years, over the course of thousands of conversations, because he was the best of us. It was not him that asked, but when we asked he answered. 
+
+
+I… uhh… do not have much more to say. But it is important to me that he is remembered as what he was, a man who came to power because he was suited to it, not because he wanted it. He will be missed. I, um. I will miss him. The Empire will remember him.
+
+
+(1:13:27)
+
+
+Ben: The music you heard on this week's podcast was "A Bit Sentimental" by montepasser. You can download it at the free music archive. This podcast can be found on iTunes, on soundcloud, or online at suncityduet.com. If you would like to reach us, you can reach us at suncityduet@gmail.com. meet us back in Sun City next Tuesday.
