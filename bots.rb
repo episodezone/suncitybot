@@ -121,7 +121,7 @@ class CloneBot < Ebooks::Bot
   def load_model!
     return if @model
 
-    @model_path ||= "model/#{original}.model"
+    @model_path ||= "model/#scdtranscript1.model"
 
     log "Loading model #{model_path}"
     @model = Ebooks::Model.load(model_path)
