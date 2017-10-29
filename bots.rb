@@ -14,7 +14,7 @@ class UserInfo
   end
 end
 
-class CloneBot < Ebooks::Bot
+class MyBot < Ebooks::Bot
   attr_accessor :original, :model, :model_path
 
   def configure
@@ -128,7 +128,7 @@ class CloneBot < Ebooks::Bot
   end
 end
 
-CloneBot.new("suncitybot") do |bot|
+MyBot.new("suncitybot") do |bot|
   bot.access_token = "894973431543988224-j8uytTtWh4ew4RdKot52jlLfiadKeb0"
   bot.access_token_secret = "yVx7TCnfFadVznn2efTS167j9PsMqM6dkIkevt7dP69Wu"
 
